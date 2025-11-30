@@ -1,3 +1,5 @@
+# Kevin Briceño (15-11661)
+
 # Constantes del problema
 X, Y, Z = 6, 6, 1
 T_SIZE = 4
