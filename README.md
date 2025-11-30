@@ -1,12 +1,10 @@
-**Universidad Simón Bolívar**
-**Departamento de Computación y Tecnología de la Información**
-**Asignatura:** Lenguajes de Programación I (CI3641)
+*Universidad Simón Bolívar*
+*Departamento de Computación y Tecnología de la Información*
+*Asignatura: Lenguajes de Programación I (CI3641)*
 
-![Python](https://img.shields.io/badge/Language-Python_3-blue.svg)
-![Coverage](https://img.shields.io/badge/Test_Coverage-95%25-green.svg)
+# Examen 3
 
-#### Información del Autor
-
+**Autor:**
 * **Nombre**: Kevin Briceño
 * **Carnet**: 15-11661
 * **Email**: `15-11661@usb.ve`
@@ -42,15 +40,15 @@ CI3641-E3
 Haga clic en los enlaces de la columna "Documentación" para ver la explicación detallada y teórica, o navegue al código fuente directamente.
 
 #### Ejercicio 1
-* **Documentación:** [Ver P1.md](./P1/P1.md)
+* **Documentación:** [Leer P1.md](./P1/P1.md)
 * **Código:** [Ver P1.py](./P1/P1.py)
 
 #### Ejercicio 2
-* **Documentación:** [Ver P2.md](./P2/P2.md)
+* **Documentación:** [Leer P2.md](./P2/P2.md)
 * **Código:** [Ver P2.py](./P2/P2.py)
 * **Tests:** [Ver test.py](./P2/test.py)
 
-#### Requisitos Globales
+### Requisitos Globales
 
 Para ejecutar los scripts y las pruebas de este repositorio:
 
