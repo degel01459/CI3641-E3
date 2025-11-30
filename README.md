@@ -1,6 +1,9 @@
 *Universidad Simón Bolívar*
+---
 *Departamento de Computación y Tecnología de la Información*
+---
 *Asignatura: Lenguajes de Programación I (CI3641)*
+---
 
 # Examen 3
 
